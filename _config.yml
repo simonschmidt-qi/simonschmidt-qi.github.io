@@ -187,8 +187,6 @@ newsletter:
 collections:
   books:
     output: true
-  teachings:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
