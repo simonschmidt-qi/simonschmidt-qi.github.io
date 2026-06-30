@@ -84,7 +84,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
@@ -354,7 +354,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: 
   group_order: descending
 
 # Display different badges withs stats for your publications
